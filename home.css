@@ -1,0 +1,190 @@
+body{
+    background-color: coral;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+/*navbar*/
+.navbar {
+    background-color:burlywood;
+    color: blue;
+    border-bottom: 2px solid rgb(0, 0, 0)
+    
+}
+
+.container-fluid img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+.navbar-brand{
+    color: coral;
+    font-weight: bold;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.navbar-toggler-icon{
+    background-color:coral;
+    
+}
+
+.d-flex .btn{
+    border-radius: 50px; border-color:black;
+    color:black;
+    background-color:coral;
+}
+
+.d-flex .form-control{
+    border-radius: 50px; border-color:black;
+    color:black;
+
+}
+
+/*Carrusel*/
+
+.carousel{
+    margin-top: 25px;
+
+}
+
+.carousel-inner{
+    border-radius: 20px;
+box-shadow: 0 10px 10px black;
+
+
+}
+
+
+.carousel-item{
+    border-radius: 10px;
+    
+}
+
+.carousel-control-prev-icon{
+    background-color: black;
+
+
+
+}
+
+.carousel-control-next-icon{
+    background-color: black;
+
+}
+
+
+
+
+/* Card-Footer */
+
+.container .col-md-3{
+    display: flex;
+    flex-wrap: 0;
+    }
+
+.card-body{
+    background-color: rgb(176, 174, 174);
+    border-top: 2px solid black;
+    box-shadow: 0 10px 10px black;
+}
+
+.copy{
+    font-size: 30px;
+    color: coral;
+}
+
+.lk{
+    display: flex;
+    justify-content: center;
+}
+
+.lk img{
+    height: 100px;
+    box-shadow: 0 5px 5px black;
+}
+
+/*********************footer***********************/
+
+
+.card-body .imagen{
+
+    
+    width: 50px;
+    height: 50px;
+
+}
+
+.card-body .imagen2{
+
+    width: 50px;
+    height: 50px;
+
+}
+
+.card-body .imagen3{ 
+    width: 50px;
+    height: 50px;
+
+
+}
+
+
+.h1{
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(0, 0, 0);
+    border-color: #ffffff;
+    background: linear-gradient(90deg, white 20%, coral 75%);
+    border-bottom: 3px solid rgb(0, 0, 0);
+    text-align: center;
+    padding: 3px;
+}
+
+.iconos{
+    display: flex;
+    justify-content: center;
+}
+
+
+.ktm{
+    width: 50px;
+    height: 38px;
+    margin-top: 6px;  
+
+
+    
+}
+
+.kawa{
+    width: 85px;
+    height: 47px;
+    
+
+}
+
+.yamaha{
+    width: 50px;
+    height: 47px;
+    border-radius: 10px; 
+    margin-top: 2px; 
+
+}
+
+.honda{
+    width: 50px;
+    height: 50px;
+    border-radius: 9px;  
+    margin: 0 15px;
+
+
+}
+
+.suzuki{
+    width: 40px;
+    height: 42px;
+    margin-left: 20px;
+    margin-top: 3px;
+}
